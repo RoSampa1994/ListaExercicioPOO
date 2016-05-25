@@ -1,8 +1,5 @@
 package Criptografia;
 
-import javax.crypto.*;
-import javax.crypto.spec.*;
-
 public class Principal {
 
     public static void main(String[] args) {
